@@ -1,8 +1,8 @@
 <h1>
   Boilerplate Typescript / NodeJs
 </h1>
-<p>Desenvolvido para ajudar outros devs na agilidade de seu código Typescript / NodeJs.</p>
-<p>É muito simples de utilizar, basta clonar o projeto e instalar as dependências:</p>
+<p>Desenvolvido para prover agilidade no desenvolvimento de código Typescript / NodeJs.</p>
+<p>Os passos de uso são clonar o projeto e instalar as dependências:</p>
 
 ```javascript
   // Install
@@ -47,7 +47,7 @@
 <h2>
   Typescript com NodeJS
 </h2>
-<p>Foi desenvolvido uma aplicação NodeJs utilizando Typescript como base.</p>
+<p>Iniciando uma aplicação NodeJs utilizando Typescript como base:</p>
 
 ```javascript
   // Typescript
@@ -113,4 +113,4 @@ Ele foi desenvolvido para ser fácil de configurar e usar, fornecendo uma ampla 
 
 ---
 
-Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
+Por ♥ Ricardo Poleto 👋 [Linkedin!](https://www.linkedin.com/in/ricardo-poleto/)
