@@ -1,4 +1,4 @@
-# Node eventEmitter
+# Node Boilerplate (ts / js)
 
 Desenvolvido para prover agilidade no desenvolvimento de código Typescript / NodeJs.
 
