@@ -1,8 +1,8 @@
-<h1>
-  Boilerplate Typescript / NodeJs
-</h1>
-<p>Desenvolvido para prover agilidade no desenvolvimento de código Typescript / NodeJs.</p>
-<p>Os passos de uso são clonar o projeto e instalar as dependências:</p>
+# Node eventEmitter
+
+Desenvolvido para prover agilidade no desenvolvimento de código Typescript / NodeJs.
+
+Os passos de uso são clonar o projeto e instalar as dependências:
 
 ```javascript
   // Install
